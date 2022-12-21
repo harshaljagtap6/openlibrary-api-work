@@ -1,0 +1,1226 @@
+{
+	"links": {
+		"self": "/authors/OL891A/works.json",
+		"author": "/authors/OL891A",
+		"next": "/authors/OL891A/works.json?offset=50"
+	},
+	"size": 666,
+	"entries": [
+		{
+			"title": "Economic and industrial life and relations",
+			"covers": [8109187],
+			"key": "/works/OL17819241W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2017-12-16T05:36:10.705206"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-05T09:28:44.117383"
+			}
+		},
+		{
+			"title": "L'Histoire de Mes Expériences Avec La Vérité",
+			"covers": [9202160],
+			"key": "/works/OL20560067W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL7790552A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2019-12-15T03:59:09.551115"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-05T09:28:44.117383"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Mahatma Gandhi",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL204994A" }
+				}
+			],
+			"covers": [10904477],
+			"key": "/works/OL24373923W",
+			"latest_revision": 3,
+			"revision": 3,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-05-01T06:02:06.502410"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-05T09:28:44.117383"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Autobiography",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL29401094W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-11-18T19:55:32.098862"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-05T09:28:44.117383"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Bhagavad Gita",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"covers": [12350940],
+			"key": "/works/OL26402084W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-11-07T01:02:15.644553"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-05T09:28:44.117383"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "My Non-Violence",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL30158683W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-11-25T19:41:41.159358"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Non-Violent Resistance",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL28033463W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-06-18T10:09:56.946228"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Guide to Health",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL28077267W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-06-19T02:25:09.647500"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Towards Non Violent Socialism",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL27856049W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-05-26T12:16:30.766781"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"title": "Autobiography",
+			"subjects": ["Asia, history"],
+			"key": "/works/OL21210014W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL4194807A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-08-13T15:42:42.441707"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "The Story of My Experiments with Truth",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"covers": [11688831],
+			"key": "/works/OL24844839W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-08-18T07:51:05.419521"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"title": "Autobiography or the Story of My Experiments with Truth",
+			"subjects": [
+				"Gandhi, mahatma, 1869-1948",
+				"Statesmen, biography",
+				"India, biography",
+				"Autobiography",
+				"Authorship",
+				"HISTORY / Asia / India & South Asia",
+				"Satyanā prayogo, athavā, ātmakathā (Gandhi, Mahatma)",
+				"Statesmen",
+				"Biography"
+			],
+			"key": "/works/OL22537552W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL4194807A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL7629370A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 4,
+			"revision": 4,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-10-11T15:08:42.224179"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-17T18:06:12.822198"
+			}
+		},
+		{
+			"title": "Gandhi's Autobiography",
+			"key": "/works/OL22016477W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL4194807A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-09-02T17:35:46.122042"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"title": "Power of Nonviolent Resistance",
+			"subjects": ["Sociology"],
+			"key": "/works/OL21209964W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL7629370A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 3,
+			"revision": 3,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-08-13T15:40:49.289011"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T22:14:31.859244"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Gandhi an Autobiography",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL26689322W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-12-28T15:10:41.751476"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"subjects": ["Calendars"],
+			"key": "/works/OL17816499W",
+			"title": "Mohan-mālā (a Gandhian rosary)",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"covers": [8105451],
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2017-12-07T04:40:47.555430"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Bir Özyaşam Gandhi",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"covers": [12114848],
+			"key": "/works/OL26156418W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-10-19T04:10:29.665168"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Aṇṇal Kānti malarañcali",
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"key": "/works/OL22479429W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-10-06T12:21:20.565470"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Famous Speeches By Mahatma Gandhi",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"covers": [12052317],
+			"key": "/works/OL25820489W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-10-08T08:38:45.911586"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"description": {
+				"type": "/type/text",
+				"value": "Compilation of anecdotes of satire and humor of Mahatma Gandhi."
+			},
+			"key": "/works/OL23324615W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"title": "Gāndhī vyaṅgavinoda kośa",
+			"subjects": ["Humor"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-11-14T07:49:40.400446"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"covers": [8718720],
+			"key": "/works/OL19901622W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"title": "Semua manusia bersaudara",
+			"subject_places": ["India"],
+			"subjects": ["Biography", "Statesmen"],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2019-07-07T04:32:41.489830"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Voluntary Poverty",
+			"key": "/works/OL15809969W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2011-06-30T06:12:45.185581"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"description": {
+				"type": "/type/text",
+				"value": "Collection of articles; published on his 70th birthday."
+			},
+			"title": "Gāndhījīne jagavandanā",
+			"subject_places": ["India"],
+			"subjects": ["Politics and government"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"key": "/works/OL23635674W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"subject_times": ["1765-1947"],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-11-25T14:41:09.635111"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "A thought for the day",
+			"covers": [8178345],
+			"key": "/works/OL17871283W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2018-05-24T05:00:42.307301"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"subject_places": ["India"],
+			"subjects": ["Social conditions", "Sexual ethics"],
+			"key": "/works/OL20960606W",
+			"title": "Conquest of self",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"covers": [10995073],
+			"latest_revision": 3,
+			"revision": 3,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-07-27T11:44:37.507288"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Gandinin sȯzdȯru̇nȯn",
+			"subjects": ["Quotations"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL23904927W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-12-10T13:30:39.753082"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Selected Writings Of Mahatma Gandhi",
+			"covers": [10099954],
+			"key": "/works/OL20802440W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL5219968A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-05-30T09:56:58.385299"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "The Gandhi Reader; a Source Book of His Life and Writings",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL31241656W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T12:35:49.604333"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Freedom's Battle",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL30431291W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-11-28T06:58:38.810061"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Hamah- ơi mardum bira darand",
+			"covers": [8050966],
+			"subject_places": ["India"],
+			"subjects": ["Biography", "Statesmen"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"key": "/works/OL17768083W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2017-08-19T05:06:34.319453"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Guide to Health",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL30236348W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-11-26T12:44:49.222395"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Gandhiji's dialogue with Christianity",
+			"subjects": ["Religion"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"description": {
+				"type": "/type/text",
+				"value": "Contains statements, speeches, writings, and recorded conversations."
+			},
+			"key": "/works/OL23772798W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-12-05T04:29:23.083066"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "An autobiography",
+			"subjects": ["Statesmen", "Biography"],
+			"subject_places": ["India"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"description": {
+				"type": "/type/text",
+				"value": "In his classic autobiography Gandhi recounts the story of his life and how he developed his concept of active nonviolent resistance, which propelled the Indian struggle for independence and countless other nonviolent struggles of the twentieth century."
+			},
+			"covers": [10637171],
+			"key": "/works/OL24199551W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-02-13T06:56:23.345138"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Sayings of Muhammad",
+			"subjects": ["Muhammad, prophet, -632"],
+			"key": "/works/OL25354118W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-09-29T02:15:51.176265"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Satya Hi Ishwar Hai सत्य ही ईश्वर है",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"covers": [12082549],
+			"key": "/works/OL26130508W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2021-10-13T18:21:40.941243"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Freedom's Battle - Being a Comprehensive Collection of Writings and Speeches on the Present Situation",
+			"covers": [9177234],
+			"key": "/works/OL20527171W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2019-12-10T21:55:43.892539"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Guide de la SANT&#65533;",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL11103904A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL30272075W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-11-26T21:01:33.719525"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Non-violence in peace & war",
+			"covers": [8108878],
+			"subject_places": ["India"],
+			"subjects": [
+				"Politics and government",
+				"World War (1939-1945) fast (OCoLC)fst01180924",
+				"World War, 1939-1945"
+			],
+			"key": "/works/OL17819025W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"subject_times": ["1919-1947"],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2017-12-16T04:50:00.965462"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"key": "/works/OL21167846W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"title": "The Mahatma and the missionary",
+			"subject_places": ["India"],
+			"subjects": ["Missions", "Views on missions"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-08-09T23:12:37.599361"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Gandhi : an Autobiography : the Story of My Experiments with Truth",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL10961930A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL4194807A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL29653600W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-11-21T07:55:24.911049"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Thus spoke Gandhi",
+			"subjects": ["Quotations", "Citat", "Politiker"],
+			"subject_places": ["Indien"],
+			"subject_times": ["1900-talet"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"covers": [12956999],
+			"key": "/works/OL29229127W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-10-20T08:42:35.385099"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Mahatma Gandhi speaks of his religion",
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"key": "/works/OL20962428W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"covers": [10670497],
+			"latest_revision": 3,
+			"revision": 3,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-07-27T13:48:30.482101"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"subject_people": [
+				"Gandhi Mahatma (1869-1948)",
+				"Vallabhbhai Jhaverbhai Patel Sardar (1875-1950)"
+			],
+			"key": "/works/OL17814694W",
+			"title": "Letters to Sardar Vallabhbhai Patel",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"covers": [8103237],
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2017-12-03T04:37:02.634848"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"type": { "key": "/type/work" },
+			"title": "Mahatma Gandhi",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL7624441A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"key": "/works/OL30656293W",
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2022-11-30T07:31:39.027463"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "The Wheel of Fortune (Classic Reprint)",
+			"covers": [8589466],
+			"key": "/works/OL19783083W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2019-06-06T03:29:57.387909"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"description": {
+				"type": "/type/text",
+				"value": "Translation of Mahatma Gandhi's Gujarati rendering of the Bhagavadgita."
+			},
+			"title": "Anāsaktiyoga aura Gītābodha",
+			"key": "/works/OL23667335W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-11-27T09:53:20.529128"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"description": {
+				"type": "/type/text",
+				"value": "Contributed articles on the philosophy of Ghāsidāsa, b. 1756, Hindu religious leader and Mahatma Gandhi, 1869-1948, statesman and freedom fighter; published on the occasion of the 125th birth anniversary of Mahatma Gandhi, 1869-1948."
+			},
+			"title": "Saca kā safaranāmā",
+			"subject_places": ["India"],
+			"subjects": ["Passive resistance", "Philosophy"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)", "Ghāsīdāsa (1756-)"],
+			"key": "/works/OL23666140W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-11-27T08:20:21.267967"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"key": "/works/OL19979430W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"title": "Wo dui zhen li de shi yan",
+			"subject_places": ["India"],
+			"subjects": ["Biography", "Statesmen"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2019-07-18T12:24:06.859402"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"title": "Hundred years of Gandhi",
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"key": "/works/OL22584155W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				},
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL375426A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-10-14T21:53:24.214182"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		},
+		{
+			"description": {
+				"type": "/type/text",
+				"value": "Summary of an inter-religious conference held on 30th January 1999 at Gandhi Smriti and Darshan Samiti; transcript of speeches on the religious views of Mahatma Gandhi, 1869-1948, statesman and on the various religions practised in India."
+			},
+			"title": "Sabako sanmati de",
+			"subject_places": ["India"],
+			"subjects": ["Religion", "Congresses"],
+			"subject_people": ["Gandhi Mahatma (1869-1948)"],
+			"key": "/works/OL22097584W",
+			"authors": [
+				{
+					"type": { "key": "/type/author_role" },
+					"author": { "key": "/authors/OL891A" }
+				}
+			],
+			"type": { "key": "/type/work" },
+			"latest_revision": 2,
+			"revision": 2,
+			"created": {
+				"type": "/type/datetime",
+				"value": "2020-09-13T08:01:47.783108"
+			},
+			"last_modified": {
+				"type": "/type/datetime",
+				"value": "2022-12-04T21:59:43.921143"
+			}
+		}
+	]
+}
